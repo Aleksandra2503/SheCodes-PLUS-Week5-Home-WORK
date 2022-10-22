@@ -79,11 +79,10 @@
 
   .github {
     color: #fffffff3;
-    text-decoration: none;
-    max-width: 650px;
-    background: #92b9498a;
-    padding: 15px;
-    margin: 10px auto;
+    display: block;
+    font-size: 18px;
+    padding: 12px 10px 10px 330px;
+    
   }
 
   .github:hover {
